@@ -6,15 +6,15 @@
         android:icon="@drawable/baseline_favorite_24"
         android:title="Fav" />
     <item
-        android:id="@+id/MusicFragment"
+        android:id="@+id/musicFragment"
         android:icon="@drawable/baseline_music_note_24"
         android:title="Music" />
     <item
-        android:id="@+id/PlacesFragment"
+        android:id="@+id/placesFragment"
         android:icon="@drawable/outline_add_location_alt_24"
         android:title="Places" />
     <item
-        android:id="@+id/NewsFragment"
+        android:id="@+id/newsFragment"
         android:icon="@drawable/outline_article_24"
         android:title="News" />
 </menu>
